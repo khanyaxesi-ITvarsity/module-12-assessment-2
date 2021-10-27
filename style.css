@@ -1,0 +1,63 @@
+#navbar{
+    color: white;
+    background-color: darkcyan;
+    padding: 1rem;
+}
+#table{
+    padding: 1rem;
+}
+#refresh{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 1rem; 
+    padding: 0.5rem; 
+    
+}
+#addContact{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 1rem; 
+    padding: 0.5rem; 
+   
+}
+#homeLink{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 1rem; 
+    padding: 0.5rem; 
+    
+}
+#submitForm{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 1rem; 
+    padding: 0.5rem;    
+}
+#editContact{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 1rem; 
+    padding: 0.5rem;    
+}
+#deleteContact{
+    color: white;
+    background-color: darkcyan;
+    border-radius: 1rem; 
+    padding: 0.5rem;    
+}
+#firstname{
+    border-radius: 1rem;
+    border-style: dotted;
+}
+#lastname{
+    border-radius: 1rem;
+    border-style: dotted;
+}
+#mobile{
+    border-radius: 1rem;
+    border-style: dotted;
+}
+#email{
+    border-radius: 1rem;
+    border-style: dotted;
+}
